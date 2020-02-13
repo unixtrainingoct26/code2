@@ -13,7 +13,7 @@
   <artifactId>dock</artifactId>
   <packaging>war</packaging>
   <name>dock</name>
-  <description>webapp.</description>
+  <description>dock.</description>
 
   <build>
     <finalName>${project.artifactId}</finalName>
